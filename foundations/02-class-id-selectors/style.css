@@ -1,0 +1,19 @@
+/* style.css */
+.odd {
+    background-color: #ff9191;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#no_bg_color {
+    color: #5d2bff;
+    font-size: 36px;
+}
+
+#green_bg {
+    background-color: #8ffc00;
+    font-weight:bold;
+}
+
+.larger_font_size {
+    font-size: 24px;
+}
